@@ -66,5 +66,3 @@ It stores user data in the browser's **localStorage** for demonstration and lear
 * Responsive font sizes and spacing for readability.
 
 ---
-
-Would you like me to generate a Markdown (`README.md`) file with this content for you?
